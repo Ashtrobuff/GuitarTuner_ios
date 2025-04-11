@@ -4,6 +4,8 @@
 A SwiftUI-based iOS guitar tuner app that detects and displays the frequency of the played note in real time. It uses `AVAudioEngine`, `Accelerate`, and a custom **Harmonic Product Spectrum (HPS)** algorithm for accurate pitch detection.
 
 ---
+<img width="448" alt="Screenshot 2025-04-11 at 6 17 35 AM" src="https://github.com/user-attachments/assets/8f0d3dfc-4213-4b51-8f62-9944197bd66b" />
+
 
 ## 🧠 Features
 
